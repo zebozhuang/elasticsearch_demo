@@ -62,5 +62,6 @@
 ```
     pip install elasticsearch
     cd elasticsearch_demo
-     python elasticsearch_client.py
+     python test_bulk.py
+     python test_elk_curd.py
 ```
