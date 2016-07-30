@@ -60,6 +60,7 @@
 ###7.运行elasticsearch demo
 
 ```
+    pip install elasticsearch
     cd elasticsearch_demo
      python elasticsearch_client.py
 ```
