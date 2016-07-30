@@ -1,8 +1,5 @@
 # coding: utf-8
 
-import time
-import random
-
 from elasticsearch import Elasticsearch, helpers
 
 
